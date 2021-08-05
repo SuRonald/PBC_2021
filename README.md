@@ -1,6 +1,6 @@
 # PBC_2021
 
-Buat simpen QR code PBC untuk markdown<br><br>
+Buat simpen message untuk pendaftar PBC pake markdown<br><br>
 
 
 # Batch 1 Shift A:
